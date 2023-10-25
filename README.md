@@ -24,6 +24,6 @@ The complexity of the original function is O(n²). I improved the performance of
 > In the main branch, we got the original function.
 
 > [!NOTE]
-> In the best_performance branch we have the function with optimized performance based on the Big-O Notation.
+> In the best_performance branch we have the function with optimized performance based on the Big-O Notation and exception handling.
 
 
