@@ -14,3 +14,5 @@ const sumUniqueOriginal = (nums) => {
 
   return sum;
 }
+
+console.log( sumUniqueOriginal([1, 4, 4, 2, 5, 5, 5]) );
